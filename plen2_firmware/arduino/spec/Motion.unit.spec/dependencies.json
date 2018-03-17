@@ -1,0 +1,12 @@
+{
+	"root": "../../firmware/",
+	"import": [
+		"BuildConfig",
+		"ExternalEEPROM",
+		"Pin",
+		"System",
+		"Profiler",
+		"Motion",
+		"JointController"
+	]
+}
